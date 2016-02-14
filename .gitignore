@@ -10,3 +10,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Examples/intercepting_filter/build/
+/Examples/intercepting_filter_completed/build/
+/Examples/front_controller/nbproject/private/
+/Examples/front_controller/build/
