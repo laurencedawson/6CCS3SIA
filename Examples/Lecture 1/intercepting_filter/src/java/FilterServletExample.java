@@ -14,6 +14,7 @@ public class FilterServletExample extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         
+        System.out.println("Example: "+request.getParameter("markdown"));
         new Target().process(new FilterHttpServletRequestWrapper(request), response);
     }
 

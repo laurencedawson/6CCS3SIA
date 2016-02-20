@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Example Markdown processor</title>
+        <title>Example Front Controller</title>
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>

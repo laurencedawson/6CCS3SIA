@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class="wrapper">
-            <h1>Content submitted!</h1>
+            <h1>Your post as not submitted</h1>
         </div>        
     </body>
 </html>

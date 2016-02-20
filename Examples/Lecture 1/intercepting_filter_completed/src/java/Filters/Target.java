@@ -10,7 +10,7 @@ public class Target implements Processor {
     @Override
     public void process(FilterHttpServletRequestWrapper req, HttpServletResponse res) 
             throws IOException, ServletException {
-       
+ 
         // Grab the markdown from the request wrapper
         String markdown = req.getParameter("markdown");
         

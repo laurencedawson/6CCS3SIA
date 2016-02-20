@@ -3,10 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/intercepting_filter_completed/src/java/FilterServletExample.java</file>
-            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/intercepting_filter_completed/src/java/Filters/Filter1.java</file>
-            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/intercepting_filter_completed/src/java/Filters/Filter2.java</file>
-            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/intercepting_filter_completed/src/java/Filters/Filter3.java</file>
+            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/Lecture%201/intercepting_filter_completed/src/java/Filters/Filter2.java</file>
+            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/Lecture%201/intercepting_filter_completed/src/java/FilterServletExample.java</file>
+            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/Lecture%201/intercepting_filter_completed/src/java/Filters/FilterManager.java</file>
+            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/Lecture%201/intercepting_filter_completed/src/java/Filters/Target.java</file>
+            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/Lecture%201/intercepting_filter_completed/src/java/Filters/Filter1.java</file>
+            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/Lecture%201/intercepting_filter_completed/src/java/Filters/Filter3.java</file>
+            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/Lecture%201/intercepting_filter_completed/web/index.jsp</file>
+            <file>file:/home/dawson/Projects/6CCS3SIA/Examples/Lecture%201/intercepting_filter_completed/web/output.jsp</file>
         </group>
     </open-files>
 </project-private>

@@ -1,7 +1,11 @@
 public class PostSubmitter {
 
-    public static void submitPost(String content){
-        // TODO
+    public static boolean submitPost(String content){
+        
+        // perform some entry into the db?
+        // Test if that successful?
+        
+        return false;
     }
     
 }
